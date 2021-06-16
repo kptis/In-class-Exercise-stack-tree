@@ -1,0 +1,16 @@
+Bài kiểm tra Lập trình
+Thời gian: 90 phút.
+1.	Cho file “input1.txt” chứa các đoạn văn bản; Ví dụ:
+Cong hoa xa hoi
+Viết chương trình thực hiện các công việc sau, in ra file.
+a) Viết chương trình thống kê tần suất xuất hiện các ký tự và in ra file “output1.txt” theo định dạng.
+a: 	15	
+b: 	10
+…
+b) Sử dụng stack để đảo thứ tự đọc được từ đoạn văn bản và in ra file “output2.txt”.
+
+2.	Cho file “input2.txt” chứa dãy số.
+
+a)	Sử dụng thuật toán quicksort để sắp xếp lại dãy không giảm; in ra file “output21.txt”.
+b)	Xây dựng cây tìm kiếm nhị phân từ dãy đã có. In cây ra file “output22.txt” theo thứ tự từ trên xuống dưới, từ trái sang phải.(Level order search)
+
